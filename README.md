@@ -1,7 +1,4 @@
 # Basic-Banking-System
-
-##  Banking System
-# Money Bank
 ### Made by Rutik Kulkarni
 Sparks Foundation Internship Project : Basic Banking System  
 A Web Application used to transfer money between multiple users.  
